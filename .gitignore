@@ -11,6 +11,8 @@ tmp/
 local.properties
 .settings/
 .loadpath
+/src/main/webapp/WEB-INF/lib/
+/src/main/webapp/WEB-INF/classes/
 
 # Eclipse Core
 .project
